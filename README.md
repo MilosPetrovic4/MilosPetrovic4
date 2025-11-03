@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,c,cpp,nodejs,python,javascript,bitbucket" />
-  <img src="https://skillicons.dev/icons?i=git,azure,openshift,kubernetes,postman" />
+  <img src="https://skillicons.dev/icons?i=git,azure,openshift,kubernetes,postman,godot" />
 </p>
 
 ## Other Skills
