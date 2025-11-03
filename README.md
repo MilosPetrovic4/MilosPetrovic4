@@ -10,7 +10,13 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=airflow,java,spring,C,C++,nodejs,python,javascript,bitbucket" />
-  <img src="https://skillicons.dev/icons?i=git,azure,openshift,kubernetes,solace,helm,json,yaml,winscp,postman" />
+  <img src="https://skillicons.dev/icons?i=git,azure,openshift,kubernetes,postman" />
 </p>
+
+## Other Skills
+- Json
+- Yaml
+- Solace Broker
+- helm
 
 <hr>
