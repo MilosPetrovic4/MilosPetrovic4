@@ -14,7 +14,7 @@
 </p>
 
 ## Other Skills
--Apache Airflow
+- Apache Airflow
 - Json
 - Yaml
 - Solace Broker
