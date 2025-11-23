@@ -15,8 +15,7 @@
 
 ## Other Skills
 - Apache Airflow
-- Json
-- Yaml
+- Bash
 - Solace Broker
 - helm
 
