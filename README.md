@@ -16,7 +16,10 @@
 ## Other Skills
 - Apache Airflow
 - Bash
-- Solace Broker
+- Solace PubSub+
 - helm
+- MySQL
+- PostrgesSQL
+- HTML/CSS
 
 <hr>
